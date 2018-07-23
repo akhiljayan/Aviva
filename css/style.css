@@ -7,8 +7,8 @@ body {
     font-family: source_sans_prosemibold,-apple-system,blinkmacsystemfont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,arial,helvetica,sans-serif;
 }
 
-.phone-link{
-    display:none;
+.phone-link {
+    display: none;
 }
 
 body a {
@@ -19,14 +19,14 @@ body a {
     text-decoration: none;
 }
 
-        body a:hover {
-            text-decoration: none;
-        }
+    body a:hover {
+        text-decoration: none;
+    }
 
-        body a:focus,
-        a:hover {
-            text-decoration: none;
-        }
+    body a:focus,
+    a:hover {
+        text-decoration: none;
+    }
 
 
 h1,
@@ -66,8 +66,8 @@ label {
     padding: 0px !important;
 }
 
-.padding-bottom-10{
-    padding-bottom:10px;
+.padding-bottom-10 {
+    padding-bottom: 10px;
 }
 
 .nav-button {
@@ -450,15 +450,15 @@ label {
     border: 0.5px solid;
     border-radius: 50px;
     padding: 10px;
-    cursor:pointer;
+    cursor: pointer;
 }
 
-.footer-list li{
-    padding-bottom:6px;
+.footer-list li {
+    padding-bottom: 6px;
 }
 
-.footer .content-container h5{
-    font-weight:bold;
+.footer .content-container h5 {
+    font-weight: bold;
 }
 
 
@@ -505,20 +505,19 @@ label {
     #link-effect-2 > .navbar-right {
         width: 100% !important;
     }
+
     #link-effect-2 > .navbar-left {
         width: 100% !important;
     }
 
     .phone-link {
         display: inline-block;
-        padding:15px;
+        padding: 15px;
     }
 }
 
 @media only screen and (max-width: 590px) {
-    .grid-item{
-        width:100% !important;
+    .grid-item {
+        width: 100% !important;
     }
 }
-
-
